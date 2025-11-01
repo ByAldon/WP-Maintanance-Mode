@@ -8,5 +8,7 @@ The plugin includes an image roulette feature. This means it shows different bac
 Otherwise, it is a fairly simple plugin that does exactly what it is supposed to do without unnecessary additions.<br><br>
 ***Note: I may expand this plugin further in the future. But for now, this is it.***
 
+All the plugins and or themes that i present to you are [privacy focussed, secure and open source](https://github.com/DevAldon/WordPress/blob/main/SECURITY.md).
+
 **Example:**
 <img width="1920" height="933" alt="Screenshot 2025-11-01 at 01-13-15 Oops — Maintenance" src="https://github.com/user-attachments/assets/3c8ec453-b0de-4981-9295-437541f9dec9" />
