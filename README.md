@@ -16,3 +16,4 @@ All the plugins and or themes that i present to you are [privacy focussed, secur
 ## 🛡 Security, Privacy & Usage Policy
 
 To read more about my Security, privacy and Usage Policy,<br>
+Please follow this link: https://github.com/ByAldon/WordPress/blob/main/SECURITY.md
